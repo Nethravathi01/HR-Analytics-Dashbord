@@ -9,7 +9,7 @@ An interactive and professional HR analytics dashbaordbuilt using Power BI to an
 - Top Performing Employees Table
 - Interactive Filters and Clean Design
 
-## Tools Used*
+## *Tools Used*
 - *Power BI* (Main Visualization Tool)
 - *PostgreSQL* (For SQL queries and data creation)
 - *DAX* (Power BI formulas)
